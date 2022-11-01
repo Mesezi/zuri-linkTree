@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/zuri-linkTree/static/css/main.9297e354.css",
+    "main.js": "/zuri-linkTree/static/js/main.cb68d886.js",
+    "static/js/787.6f9402b0.chunk.js": "/zuri-linkTree/static/js/787.6f9402b0.chunk.js",
+    "static/media/profile_img.png": "/zuri-linkTree/static/media/profile_img.5ff40e1b5d2b90077f44.png",
+    "index.html": "/zuri-linkTree/index.html",
+    "main.9297e354.css.map": "/zuri-linkTree/static/css/main.9297e354.css.map",
+    "main.cb68d886.js.map": "/zuri-linkTree/static/js/main.cb68d886.js.map",
+    "787.6f9402b0.chunk.js.map": "/zuri-linkTree/static/js/787.6f9402b0.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9297e354.css",
+    "static/js/main.cb68d886.js"
+  ]
+}
